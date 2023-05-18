@@ -10,14 +10,6 @@ app.use(cors());
 app.use(express.json());
 
 
-
-// nahidnhptake
-// Y5Fa6HaAsGJf7sZW
-
-
-
-
-
 const uri =`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.krpkhzs.mongodb.net/?retryWrites=true&w=majority`;
 
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
