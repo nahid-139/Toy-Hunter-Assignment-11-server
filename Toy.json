@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Iron Man",
+      "price": 29.99,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Captain America",
+      "price": 24.99,
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Black Widow",
+      "price": 19.99,
+      "rating": 4.7
+    },
+    {
+        "id": 4,
+        "name": "Thor",
+        "price": 27.99,
+        "rating": 4.8
+      },
+      {
+        "id": 5,
+        "name": "Hulk",
+        "price": 31.99,
+        "rating": 4.3
+      },
+      {
+        "id": 6,
+        "name": "Black Panther",
+        "price": 22.99,
+        "rating": 4.6
+      }
+  ]
+  
