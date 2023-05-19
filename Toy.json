@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      
       "name": "Iron Man",
       "price": 29.99,
       "rating": 4.5,
@@ -10,7 +10,7 @@
       "image": "https://example.com/images/iron-man.jpg"
     },
     {
-      "id": 2,
+    
       "name": "Captain America",
       "price": 24.99,
       "rating": 4.2,
@@ -20,7 +20,7 @@
       "image": "https://example.com/images/captain-america.jpg"
     },
     {
-      "id": 3,
+     
       "name": "Black Widow",
       "price": 19.99,
       "rating": 4.7,
@@ -30,7 +30,7 @@
       "image": "https://example.com/images/black-widow.jpg"
     },
     {
-      "id": 4,
+      
       "name": "Thor",
       "price": 27.99,
       "rating": 4.8,
@@ -40,7 +40,7 @@
       "image": "https://example.com/images/thor.jpg"
     },
     {
-        "id": 5,
+        
         "name": "Hulk",
         "price": 31.99,
         "rating": 4.3,
@@ -50,7 +50,7 @@
         "image": "https://example.com/images/hulk.jpg"
       },
       {
-        "id": 6,
+        
         "name": "Black Panther",
         "price": 22.99,
         "rating": 4.6,
