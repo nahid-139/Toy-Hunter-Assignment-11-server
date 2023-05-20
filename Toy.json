@@ -1,62 +1,42 @@
 [
-    {
-      
-      "name": "Iron Man",
-      "price": 29.99,
-      "rating": 4.5,
-      "subcategory": "Action Figures",
-      "quantity": 10,
-      "details": "Highly detailed Iron Man action figure with articulated joints and light-up features. It includes a removable helmet and multiple interchangeable hands for different poses. The figure is made of high-quality plastic and stands approximately 12 inches tall.",
-      "image": "https://example.com/images/iron-man.jpg"
-    },
-    {
-    
-      "name": "Captain America",
-      "price": 24.99,
-      "rating": 4.2,
-      "subcategory": "Props",
-      "quantity": 5,
-      "details": "Authentic Captain America shield replica with adjustable straps for easy wearing and display. The shield is made of sturdy materials and features the iconic red, white, and blue design. It is approximately 24 inches in diameter and is a perfect accessory for cosplay or display.",
-      "image": "https://example.com/images/captain-america.jpg"
-    },
-    {
-     
-      "name": "Black Widow",
-      "price": 19.99,
-      "rating": 4.7,
-      "subcategory": "Action Figures",
-      "quantity": 8,
-      "details": "Poseable Black Widow action figure with interchangeable weapons and accessories. The figure features multiple points of articulation, allowing for dynamic posing. It comes with a variety of weapons such as batons, pistols, and a removable jacket. The figure stands approximately 6 inches tall and is perfect for fans of the character.",
-      "image": "https://example.com/images/black-widow.jpg"
-    },
-    {
-      
-      "name": "Thor",
-      "price": 27.99,
-      "rating": 4.8,
-      "subcategory": "Props",
-      "quantity": 3,
-      "details": "Mjolnir hammer prop replica with sound effects and engraved Asgardian inscriptions. The hammer is made of high-quality materials and features realistic details. When lifted, it produces thunderous sound effects. It also includes engraved inscriptions from the ancient Asgardian language. The hammer is a great collectible for Thor fans and cosplay enthusiasts.",
-      "image": "https://example.com/images/thor.jpg"
-    },
-    {
-        
-        "name": "Hulk",
-        "price": 31.99,
-        "rating": 4.3,
-        "subcategory": "Action Figures",
-        "quantity": 12,
-        "details": "Highly detailed Hulk action figure with super-sized muscles and roaring sound effects. It stands approximately 10 inches tall and features articulation in the arms, legs, and head for dynamic poses.",
-        "image": "https://example.com/images/hulk.jpg"
+  {
+    "categories": [
+      {"subcategories" :"Marvel Toys",
+        "name": "Iron Man Action Figure",
+        "price": 19.99,
+        "rating": 4.5,
+        "picture": "https://example.com/ironman.jpg"
       },
-      {
-        
-        "name": "Black Panther",
-        "price": 22.99,
+      {"subcategories" :"Marvel Toys",
+        "name": "Captain America Shield Replica",
+        "price": 29.99,
+        "rating": 4.7,
+        "picture": "https://example.com/captainamerica.jpg"
+      },
+      { "subcategories":"Avengers Toys",
+        "name": "Avengers Endgame Titan Hero Series",
+        "price": 14.99,
+        "rating": 4.2,
+        "picture": "https://example.com/titanseries.jpg"
+      },
+      { "subcategories":"Avengers Toys",
+        "name": "Avengers Assemble 4-Pack Action Figures",
+        "price": 39.99,
+        "rating": 4.8,
+        "picture": "https://example.com/avengersassemble.jpg"
+      },
+      { "subcategories":"StarWars Toys",
+        "name": "Darth Vader Lightsaber Replica",
+        "price": 49.99,
         "rating": 4.6,
-        "subcategory": "Action Figures",
-        "quantity": 6,
-        "details": "Poseable Black Panther action figure with vibranium suit and retractable claws. It comes with a Wakanda-themed base for display and stands approximately 7 inches tall.",
-        "image": "https://example.com/images/black-panther.jpg"
+        "picture": "https://example.com/darthvader.jpg"
+      },
+      { "subcategories":"StarWars Toys",
+        "name": "Millennium Falcon LEGO Set",
+        "price": 89.99,
+        "rating": 4.9,
+        "picture": "https://example.com/millenniumfalcon.jpg"
       }
-  ]
+    ]
+  }
+]

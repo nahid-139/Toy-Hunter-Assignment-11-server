@@ -25,6 +25,7 @@ async function run() {
   try {
    client.connect();
     const toysCollection = client.db("toyDb").collection("Toy");
+    const toysAddCollection = client.db("toyDb").collection("toyAdd");
    
 
     app.get("/toys", async (req, res) => {
@@ -33,7 +34,24 @@ async function run() {
       res.send(result);
     });
 
-   
+  //  add toys
+
+  app.get("/toysAdd", async (req, res) => {
+    const toy= toysAddCollection.find();
+    const result = await toy.toArray();
+    res.send(result);
+  });
+
+
+  app.post("/toysAdd", async(req, res) => {
+    const items = req.body;
+    const cursor= await toysAddCollection.insertOne(items)
+    res.send(cursor)
+  });
+
+
+
+
   } finally {
     // Ensures that the client will close when you finish/error
     await client.close();
