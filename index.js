@@ -53,10 +53,10 @@ async function run() {
 
 app.get("/toys/:id", async (req, res) => {
   console.log(req.params.id);
-  const jobs = await toysAddCollection.findOne({
+  const toy = await toysAddCollection.findOne({
     _id: new ObjectId(req.params.id),
   });
-  res.send(jobs);
+  res.send(toy);
 });
 
 
