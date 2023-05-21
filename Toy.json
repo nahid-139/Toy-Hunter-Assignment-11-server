@@ -25,13 +25,13 @@
         "rating": 4.8,
         "picture": "https://example.com/avengersassemble.jpg"
       },
-      { "subcategories":"StarWars Toys",
+      { "subcategories":"Star Wars Toys",
         "name": "Darth Vader Lightsaber Replica",
         "price": 49.99,
         "rating": 4.6,
         "picture": "https://example.com/darthvader.jpg"
       },
-      { "subcategories":"StarWars Toys",
+      { "subcategories":"Star Wars Toys",
         "name": "Millennium Falcon LEGO Set",
         "price": 89.99,
         "rating": 4.9,

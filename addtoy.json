@@ -1,0 +1,62 @@
+[{
+    "name": "Iron Man Action Figure",
+    "image": "https://brincamundo.com.br/wp-content/uploads/2023/04/action-figure-iron-man-mark42-pose-suporte.webp",
+    "price": 19.99,
+    "rating": 4.5,
+    "user":"Toy Hunter",
+    "sub_category": "Marvel Toys",
+    "quantity": 10,
+    "description": "Get ready for action-packed adventures with the Iron Man Action Figure!"
+  },
+  {
+    "name": "Captain America Shield Replica",
+    "image": "https://m.media-amazon.com/images/I/81iO6g0I-UL._AC_UF894,1000_QL80_.jpg",
+    "price": 24.99,
+    "rating": 4.7,
+    "user":"Toy Hunter",
+    "sub_category": "Marvel Toys",
+    "quantity": 10,
+    "description": "Get ready for action-packed adventures with the Captain America Shield Replica!"
+  },
+  {
+    "name": "Avengers Endgame Titan Hero Series",
+    "image": "https://cdn.shopify.com/s/files/1/0247/3630/1141/products/Titan-Hero-Series-Avengers-Endgame-Thanos-Hulk-Captain-America-Iron-Man-Captain-Marvel-Black-Panther-PVC.jpg?v=1572956874",
+    "price": 14.99,
+    "rating": 4.2,
+    "user":"Toy Hunter",
+    "sub_category": "Avengers Toys",
+    "quantity": 10,
+    "description": "Get ready for action-packed adventures with theAvengers Endgame Titan Hero Series!"
+  },
+  {
+    "name": "Avengers Assemble 4-Pack Action Figures",
+    "image": "https://m.media-amazon.com/images/I/81Y66knREWL.jpg",
+    "price": 24.99,
+    "rating": 4.8,
+    "user":"Toy Hunter",
+    "sub_category": "Avengers Toys",
+    "quantity": 10,
+    "description": "Get ready for action-packed adventures with the Avengers Assemble 4-Pack Action Figures!"
+  },
+  {
+    "name": "Darth Vader Lightsaber Replica",
+    "image": "https://japanworld.it/78655-home_default/hasbro-star-wars-the-black-series-replica-11-force-fx-elite-lightsaber-darth-vader.jpg",
+    "price": 49.99,
+    "rating": 4.9,
+    "user":"Toy Hunter",
+    "sub_category": "Star Wars Toys",
+    "quantity": 10,
+    "description": "Get ready for action-packed adventures with the Darth Vader Lightsaber Replica!"
+  },
+  {
+    "name": "Millennium Falcon LEGO Set",
+    "image": "https://m.media-amazon.com/images/I/815iIEChNGL._SL1500_.jpg",
+    "price":  89.99,
+    "rating": 4.6,
+    "user":"Toy Hunter",
+    "sub_category": "Star Wars Toys",
+    "quantity": 10,
+    "description": "Get ready for action-packed adventures with theMillennium Falcon LEGO Set!"
+  }
+
+]
